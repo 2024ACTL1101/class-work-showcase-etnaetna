@@ -24,9 +24,8 @@ This is written in markdown language.
 * [Retirement and Health](super.md)
 * [General Insurance](general.md)
 * [Banking and ERM](banking.md)
-* Coding Assignment: [Algorithmic Trading](algotrading.md) <- filled this
-* Coding Assignment: [CAPM Model](capm.md) <- filled this
-
+* Coding Assignment: [ACTL1101 Assignment Part A.pdf](https://github.com/user-attachments/files/16407044/ACTL1101.Assignment.Part.A.pdf)
+* Coding Assignment: [ACTL1101 Assignment Part B.pdf](https://github.com/user-attachments/files/16407035/ACTL1101.Assignment.Part.B.pdf)
 
 
 
